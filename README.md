@@ -3,7 +3,7 @@
 
 ## Livrables du projet
 ### Cahier des charges
-<a href="https://github.com/Sandk21/porfolio_OC/blob/main/Cahier%20des%20charges.pdf" target="_blank">Cahier des charges pour le projet Portfolio</a>
+<a href="https://github.com/Sandk21/porfolio_OC/blob/main/Cahier%20des%20charges.pdf" >Cahier des charges pour le projet Portfolio</a>
 ### Planification du projet portfolio (gantt)
 ### Profil / CV
 ### Veille métier (XGBoost)
