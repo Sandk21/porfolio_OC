@@ -5,6 +5,7 @@
 ### Cahier des charges
 <a href="https://github.com/Sandk21/porfolio_OC/blob/main/Cahier%20des%20charges.pdf" >Cahier des charges pour le projet Portfolio</a>
 ### Planification du projet portfolio (gantt)
+### Besoins métiers
 ### Profil / CV
 ### Veille métier (XGBoost)
 ### Formation - Création de graphiques avec tableau
