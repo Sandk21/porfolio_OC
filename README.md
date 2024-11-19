@@ -6,7 +6,7 @@ La prémière étape consistait à faire une carte mentale via Miro. L'objectif 
 
 <a href="https://miro.com/miroverse/mindmap-srwbmc5zvom78fsg/" target="_blank">Mindmap </a>
 ### Cahier des charges
-Afin de conduire ce projet de portfolio pour Aeroworld, un chaier des charges a été réalisé. Ce dernier permet de prévoir les différents points attendus pour la réalisation de ce portfolio.
+Afin de conduire ce projet de portfolio pour Aeroworld, un cahier des charges a été réalisé. Ce dernier permet de prévoir les différents points attendus pour la réalisation de ce portfolio.
 
 <a href="https://github.com/Sandk21/porfolio_OC/blob/main/Cahier%20des%20charges.pdf" target="_blank" style="height:80px">Cahier des charges pour le projet Portfolio</a>
 ### Planification du projet portfolio (gantt)
