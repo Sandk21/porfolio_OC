@@ -10,7 +10,7 @@ Afin de conduire ce projet de portfolio pour Aeroworld, un cahier des charges a 
 
 <a href="https://github.com/Sandk21/porfolio_OC/blob/main/Cahier%20des%20charges.pdf" target="_blank" style="height:80px">Cahier des charges pour le projet Portfolio</a>
 ### Planification du projet portfolio (gantt)
-Ce projet a été planifier à l'aide d'un Gantt avec l'outil Tableau Desktop et publié sur Tableau public.
+Ce projet a été planifié à l'aide d'un Gantt avec l'outil Tableau Desktop et publié sur Tableau public.
 
 <a href="https://public.tableau.com/app/profile/stephane.jailly/viz/Gantt_17314989371670/Tableaudebord" target="_blank">Lien vers Tableau public</a>
 
